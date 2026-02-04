@@ -24,7 +24,7 @@ Players are given a brief preview of all cards and must then match **four identi
 4. Match all cards to win the game.
 
 ## Live Demo
-(Insert your Netlify link here)
+https://ianlobo355-glitch.github.io/FlipQuest/
 
 ## Author
 Built by **Ian Mark Ivan Lobo**
